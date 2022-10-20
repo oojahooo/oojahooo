@@ -17,10 +17,10 @@ In particular,
 ## :bulb: Skills
 
 ### :fountain_pen: Professional
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=white)
 
 
 ### :pencil2: Proficient
@@ -37,6 +37,14 @@ In particular,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oojahooo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oojahooo&theme=tokyonight&layout=compact&hide=javascript,html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="left">
+
+## :door: Links
+
+**Personal Blog:** https://prosys.kaist.ac.kr/home/oojahooo/
+
+**PL Wiki (From [Prosys Lab](https://prosys.kaist.ac.kr)):** https://github.com/prosyslab/pl-wiki/wiki
 
 <!--
 **oojahooo/oojahooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
