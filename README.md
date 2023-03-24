@@ -42,7 +42,7 @@ In particular,
 
 ## :door: Links
 
-**Personal Blog:** https://prosys.kaist.ac.kr/home/oojahooo/
+**Personal Blog:** https://jaeho.pl
 
 **PL Wiki (From [Prosys Lab](https://prosys.kaist.ac.kr)):** https://github.com/prosyslab/pl-wiki/wiki
 
