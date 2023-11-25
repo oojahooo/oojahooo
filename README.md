@@ -31,14 +31,6 @@ In particular,
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-## :chart_with_upwards_trend: Stats
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oojahooo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oojahooo&theme=tokyonight&layout=compact&hide=javascript,html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="left">
 
 ## :door: Links
 
