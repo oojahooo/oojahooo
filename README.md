@@ -10,8 +10,8 @@ Currently, I am a member of [Programming Systems Lab](https://prosys.kaist.ac.kr
 My research interests are related to improving programming systems using program analysis, synthesis, verification methods based on programming language theory.
 In particular,
 - **Program Analysis** for automatically detecting software bugs and vulnerabilies
-- **Type Safety** of object-oriented programming languages
 - **Program Verification** for automatically reasoning correctmess of program
+- **Compiler Optimization** using static analysis
 - Scalable **Program Synthesis** in specific domains
 
 ## :bulb: Skills
