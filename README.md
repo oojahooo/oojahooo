@@ -2,8 +2,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foojahooo%2Foojahooo&count_bg=%233DB9C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a>
 
-I am a master student at School of computing, KAIST.
-Currently, I am a member of [Programming Systems Lab](https://prosys.kaist.ac.kr) in KAIST advised by [Kihong Heo](https://kihongheo.kaist.ac.kr).
+I am a compiler engineer in [ENERZAi](https://enerzai.com).
 
 ## :headphones: Research Interests
 
